@@ -15,3 +15,6 @@ Cosmetic :
 
 Options:
 ~ 5 to 9 bottles
+
+Use:
+~ Frame
