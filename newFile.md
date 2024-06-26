@@ -1,6 +1,6 @@
-# ✿ Hello Partner ✿
+# Bottle Game
 ```
-✤ This will be our sketch of the bottle game
+✿ Sorted Bottle Game ✿
 ```
 
 Deadline: 
