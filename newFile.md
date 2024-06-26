@@ -1,4 +1,4 @@
-# ✿ Hello Amor ✿
+# ✿ Hello Partner ✿
 ```
-✤ you asked for a google doc but i think we should write in here maybe? 
+✤ This will be our sketch of the bottle game
 ```
