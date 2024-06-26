@@ -11,7 +11,7 @@ July 5 - July 9
 
 Cosmetic :
 ~ Randomized colored bottles
-~ Table 
+~ Boxes with greyed out bottles on the bottom 
 
 Options:
 ~ 5 to 9 bottles
